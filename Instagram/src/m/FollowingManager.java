@@ -46,7 +46,7 @@ public class FollowingManager
 	
 	public static ArrayList<FollowingDB> getAllFollowing()
 	{
-		ArrayList<FollowingDB> list = new ArrayList<FollowingDB>(); // ต้องประกาศตัวแปร
+		ArrayList<FollowingDB> list = new ArrayList<FollowingDB>(); 
 
 		try
 		{
